@@ -1,0 +1,8 @@
+1. Extract the zip folder inside C:\xampp\htdocs\"FILENAME".
+2. Open the localhost/phpmyadmin and import the 8dw.sql file.
+3. In the master_user_data there is the username and password which you can use for login.
+4. In this the user can update the profile and update the password.
+5. For adding new user its actually is done from a admin panel where there is lms_update its an excel which will be imported in the lms_table.
+6. The user found in lms will be getting added in the master_user_data.
+
+for further queries you can contact me on ssharsh247@gmail.com
